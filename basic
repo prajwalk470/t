@@ -1,0 +1,14 @@
+JavaScript is a client side scripting language.
+It is used to make web pages alive.
+It is used to programmatically perform actions within the page.
+When JavaScript was created, it was initially called "LiveScript".
+DOM -Document Object Model.
+JavaScript is a younger bro of JAVA.
+**> IN-BROWSER JAVASCRIPT:-
+we can use javascript as a client as well as server side language.
+It can used to perform wide variety of tasks.
+ Ajax requests.
+ Get and set cookies and local storage.
+**> In-Browser JavaScript can't do these things:-
+-Read/Write to and from Computer Hard disk.
+-
